@@ -1,0 +1,6 @@
+C:\Users\wiole\Desktop\Programing challenge\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe.config
+C:\Users\wiole\Desktop\Programing challenge\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe
+C:\Users\wiole\Desktop\Programing challenge\NameGenerator\NameGenerator\bin\Debug\NameGenerator.pdb
+C:\Users\wiole\Desktop\Programing challenge\NameGenerator\NameGenerator\obj\Debug\NameGenerator.csprojResolveAssemblyReference.cache
+C:\Users\wiole\Desktop\Programing challenge\NameGenerator\NameGenerator\obj\Debug\NameGenerator.exe
+C:\Users\wiole\Desktop\Programing challenge\NameGenerator\NameGenerator\obj\Debug\NameGenerator.pdb
