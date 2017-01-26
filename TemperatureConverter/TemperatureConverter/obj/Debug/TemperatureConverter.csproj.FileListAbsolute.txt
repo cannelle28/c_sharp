@@ -1,0 +1,6 @@
+C:\Users\wiole\Desktop\Programing challenge\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\wiole\Desktop\Programing challenge\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\wiole\Desktop\Programing challenge\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\wiole\Desktop\Programing challenge\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\wiole\Desktop\Programing challenge\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\wiole\Desktop\Programing challenge\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
